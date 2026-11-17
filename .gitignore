@@ -1,0 +1,48 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity generated artifacts
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.bak
+
+# IDE cache and local settings
+.vs/
+.idea/
+.gradle/
+*.DotSettings.user
+.vscode/*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash diagnostics
+sysinfo.txt
+
+# Preserve Unity assets and meta files, Packages, ProjectSettings
+# Do not ignore *.meta, *.unity, *.prefab, *.asset, or source assets.
